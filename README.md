@@ -1,4 +1,4 @@
-👋 Hi, I’m @kkishor714
+👋 Hi, I’m Kishor
 👀 I’m interested in Python, SQL, and data analysis
 🌱 I’m currently learning data science, cybersecurity, and MySQL
 💞️ I’m looking to collaborate on data-driven projects, brand protection, and cybersecurity topics
